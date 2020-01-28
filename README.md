@@ -1,0 +1,1 @@
+Codeigniter app that sends email via SMTP
